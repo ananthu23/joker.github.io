@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/firstreactapp/static/css/main.9484bbf6.chunk.css",
-    "main.js": "/firstreactapp/static/js/main.9e9c4ab9.chunk.js",
-    "main.js.map": "/firstreactapp/static/js/main.9e9c4ab9.chunk.js.map",
-    "runtime-main.js": "/firstreactapp/static/js/runtime-main.dd4f89bb.js",
-    "runtime-main.js.map": "/firstreactapp/static/js/runtime-main.dd4f89bb.js.map",
-    "static/js/2.086772f5.chunk.js": "/firstreactapp/static/js/2.086772f5.chunk.js",
-    "static/js/2.086772f5.chunk.js.map": "/firstreactapp/static/js/2.086772f5.chunk.js.map",
-    "index.html": "/firstreactapp/index.html",
-    "precache-manifest.a52cef4bcab023e3808534b849b4fdde.js": "/firstreactapp/precache-manifest.a52cef4bcab023e3808534b849b4fdde.js",
-    "service-worker.js": "/firstreactapp/service-worker.js",
-    "static/css/main.9484bbf6.chunk.css.map": "/firstreactapp/static/css/main.9484bbf6.chunk.css.map",
-    "static/js/2.086772f5.chunk.js.LICENSE.txt": "/firstreactapp/static/js/2.086772f5.chunk.js.LICENSE.txt"
+    "main.css": "/jokerFirstReact/static/css/main.9484bbf6.chunk.css",
+    "main.js": "/jokerFirstReact/static/js/main.d81f8170.chunk.js",
+    "main.js.map": "/jokerFirstReact/static/js/main.d81f8170.chunk.js.map",
+    "runtime-main.js": "/jokerFirstReact/static/js/runtime-main.696dabc6.js",
+    "runtime-main.js.map": "/jokerFirstReact/static/js/runtime-main.696dabc6.js.map",
+    "static/js/2.086772f5.chunk.js": "/jokerFirstReact/static/js/2.086772f5.chunk.js",
+    "static/js/2.086772f5.chunk.js.map": "/jokerFirstReact/static/js/2.086772f5.chunk.js.map",
+    "index.html": "/jokerFirstReact/index.html",
+    "precache-manifest.98caade5486da010fe9a7b21b1cb15e0.js": "/jokerFirstReact/precache-manifest.98caade5486da010fe9a7b21b1cb15e0.js",
+    "service-worker.js": "/jokerFirstReact/service-worker.js",
+    "static/css/main.9484bbf6.chunk.css.map": "/jokerFirstReact/static/css/main.9484bbf6.chunk.css.map",
+    "static/js/2.086772f5.chunk.js.LICENSE.txt": "/jokerFirstReact/static/js/2.086772f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd4f89bb.js",
+    "static/js/runtime-main.696dabc6.js",
     "static/js/2.086772f5.chunk.js",
     "static/css/main.9484bbf6.chunk.css",
-    "static/js/main.9e9c4ab9.chunk.js"
+    "static/js/main.d81f8170.chunk.js"
   ]
 }
